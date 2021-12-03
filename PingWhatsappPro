@@ -253,3 +253,4 @@ public class Board extends JPanel implements ActionListener {
         }
     }
 }
+Added feature to create groups upto 200 users
